@@ -16,9 +16,9 @@ Your photos will be stored in a database in full quality, to ensure that you don
 -   Create albums and diaries
     Just like organizing files, you can create a separate photo album in case you want to have another album separate to your main one. This can include selfies, objects, events, objects, art, and so on. The possibilities are endless!
 
-##Links
-[Proposal Doc] (https://docs.google.com/document/d/1Ccd0hbStn2Qnw0V0jQfJdLRXDoMGGX1PpoOnOZQml1Q/edit)
+## Links
+[Proposal Doc](https://docs.google.com/document/d/1Ccd0hbStn2Qnw0V0jQfJdLRXDoMGGX1PpoOnOZQml1Q/edit)
 
-[Layout] (https://docs.google.com/document/d/1UmCbw5D7vcrR6VSxnYZEzhLTVoW2sC0BuDagBp9SH3g/edit)
+[Layout](https://docs.google.com/document/d/1UmCbw5D7vcrR6VSxnYZEzhLTVoW2sC0BuDagBp9SH3g/edit)
 
-[Demo] (https://drive.google.com/drive/u/2/folders/1gNcaBpYJCCSg5g3uJWkKYDrTDGp95YL_)
+[Demo](https://drive.google.com/drive/u/2/folders/1gNcaBpYJCCSg5g3uJWkKYDrTDGp95YL_)
