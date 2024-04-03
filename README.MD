@@ -21,4 +21,4 @@ Your photos will be stored in a database in full quality, to ensure that you don
 
 [Layout](https://docs.google.com/document/d/1UmCbw5D7vcrR6VSxnYZEzhLTVoW2sC0BuDagBp9SH3g/edit)
 
-[Demo](https://drive.google.com/drive/u/2/folders/1gNcaBpYJCCSg5g3uJWkKYDrTDGp95YL_)
+[Demo](https://drive.google.com/file/d/1u74tIkHWWZbRN_PA52v_iC4VgD06pBZo/view?usp=sharing)
